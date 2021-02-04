@@ -164,8 +164,8 @@ const projects = {
   projects: [
     {
       // image: require("./assets/images/covd.png"),
-      name: 'Project 1',
-      link: "http://aliraza-covid-19.surge.sh/"
+      name: 'Night media',
+      link: "https://nightmedia.co/"
     },
     {
       name: 'Project 2',
@@ -173,6 +173,10 @@ const projects = {
     },
     {
       name: 'Project 3',
+      link: "http://aliraza-personalexpanse.surge.sh/"
+    },
+    {
+      name: 'Project 33',
       link: "http://aliraza-personalexpanse.surge.sh/"
     },
     {
