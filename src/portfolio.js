@@ -144,15 +144,19 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/appicon.png"),
+      image: require("./assets/images/dynamicinfluences.png"),
       link: "https://play.google.com/store/apps/details?id=com.t4s.apl"
     },
     {
-      image: require("./assets/images/vsc.png"),
+      image: require("./assets/images/luxesla.png"),
       link: "https://vitalitysolutioncenter.com/"
     },
     {
-      image: require("./assets/images/alhaq.jpg"),
+      image: require("./assets/images/night-media.svg"),
+      link: "https://vitalitysolutioncenter.com/"
+    },
+    {
+      image: require("./assets/images/ghali-child.png"),
       link: "http://alhaq.world/"
     },
   ]
