@@ -175,6 +175,14 @@ const projects = {
       name: 'Project 3',
       link: "http://aliraza-personalexpanse.surge.sh/"
     },
+    {
+      name: 'Project 4',
+      link: "http://aliraza-personalexpanse.surge.sh/"
+    },
+    {
+      name: 'Project 5',
+      link: "http://aliraza-personalexpanse.surge.sh/"
+    },
   ]
 };
 
