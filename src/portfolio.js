@@ -29,7 +29,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "FWEB DEVELOPER WHO WANTS TO EXPLORE EVERY NEW TECHNOLOGY",
+  subTitle: "WEB DEVELOPER WHO WANTS TO EXPLORE EVERY NEW TECHNOLOGY",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your Web Applications."),
     emoji("⚡ Develop Website through Elementor builder."),
