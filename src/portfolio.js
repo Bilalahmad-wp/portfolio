@@ -168,24 +168,20 @@ const projects = {
       link: "https://nightmedia.co/"
     },
     {
-      name: 'Project 2',
-      link: "http://aliraza-type-quiz.surge.sh/"
+      name: 'Meta luck',
+      link: "http://metalucks.com/"
     },
     {
-      name: 'Project 3',
-      link: "http://aliraza-personalexpanse.surge.sh/"
+      name: 'Luxesla',
+      link: "https://www.luxsle.com/"
     },
     {
-      name: 'Project 33',
-      link: "http://aliraza-personalexpanse.surge.sh/"
+      name: 'Dynamicinfluencecourses',
+      link: "https://dynamicinfluencecourses.com/"
     },
     {
-      name: 'Project 4',
-      link: "http://aliraza-personalexpanse.surge.sh/"
-    },
-    {
-      name: 'Project 5',
-      link: "http://aliraza-personalexpanse.surge.sh/"
+      name: 'Ghalichmid',
+      link: "http://www.ghalichimd.com/"
     },
   ]
 };
